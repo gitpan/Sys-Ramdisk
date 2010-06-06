@@ -1,5 +1,8 @@
 ######################################################################
 Revision history for Perl extension Sys::Ramdisk
 
+0.02  2010/06/05
+  (ms) Added missing prereqs
+
 0.01  2010/06/01
-      * Where it all began.
+  (ms) Where it all began.

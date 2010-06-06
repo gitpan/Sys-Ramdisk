@@ -8,7 +8,7 @@ use Sysadm::Install qw(:all);
 use File::Temp qw(tempdir);
 use File::Basename;
 
-our $VERSION = "0.01";
+our $VERSION = "0.02";
 
 my %class_mapper =
   map { $_->[0] => __PACKAGE__ . "::" . $_->[1] }
